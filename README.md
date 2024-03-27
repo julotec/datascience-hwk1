@@ -1,5 +1,4 @@
 # Array and Matrix Operations
-.............................
 
 ## Description
 --------------
