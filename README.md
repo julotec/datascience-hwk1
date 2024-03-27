@@ -1,8 +1,8 @@
-#Array and Matrix Operations
-============================
+# Array and Matrix Operations
+=============================
 
-##Description
-------------
+## Description
+--------------
 In this assignment, we will perform various operations on one-dimensional arrays (vectors) and two-dimensional arrays (matrices) using the NumPy library in Python.
 
 Below is the list of operations that will be performed in the Jupyter Notebook file (Hw1.ipynb).
