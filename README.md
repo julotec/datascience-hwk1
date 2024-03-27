@@ -28,4 +28,5 @@ Below is the list of operations that will be performed in the Jupyter Notebook f
 - Find a vector of square roots from a vector of size 4 filled with random integers from 1 to 50.
 
 
-  In the Jupyter Notebook file Hw1.ipynb, you will find the code implementing the above operations. If you have any questions, feel free to ask!
+
+In the Jupyter Notebook file Hw1.ipynb, you will find the code implementing the above operations. If you have any questions, feel free to ask!
