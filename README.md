@@ -1,4 +1,4 @@
-# Array and Matrix Operations
+# Array and Matrix Operations 🔢
 
 ## Description
 --------------
